@@ -100,4 +100,4 @@ Main Website: https://l3ockydev.github.io
 
 ---
 
-Created by L3ocky Dev Lab.
+Created by l3ocky Dev Lab.
