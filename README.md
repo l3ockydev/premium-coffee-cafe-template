@@ -1,5 +1,5 @@
 # Premium Coffee Cafe Template ☕
-
+![Premium Coffee Cafe Template Preview](assets/preview-coffee-cafe.png)
 Premium coffee shop website template concept for modern coffee shops, cafés, beverage brands, and local food & beverage businesses.
 
 This repository is used as a public product showcase for the template.
