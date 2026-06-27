@@ -7,7 +7,9 @@ The full source code is not included in this public repository.
 
 ## Live Demo
 
-Demo will be available soon.
+Live demo / showcase:
+
+https://l3ockydev.github.io/templates/coffee-cafe.html
 
 Main showroom: https://l3ockydev.github.io
 
